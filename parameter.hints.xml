@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.widget.ImageView.ImageView(context)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
